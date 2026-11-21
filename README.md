@@ -5,7 +5,7 @@ Interactive Power BI dashboard analyzing Blinkit sales data, product performance
 <img width="570" height="191" alt="3_KPI_Requirement" src="https://github.com/user-attachments/assets/f07f522c-17ec-4e87-a076-f0e3a192b83d" />
 <img width="938" height="420" alt="2_Business_requirement" src="https://github.com/user-attachments/assets/514ef074-e677-483a-9f5c-046793bd3b69" />
 Dashboard Snapshot -
-<img width="957" height="599" alt="Dashboard_Snapshot" src="https://github.com/user-attachments/assets/b55bae4d-32a8-4d00-a272-3a378c27f392" />
+<img width="959" height="596" alt="image" src="https://github.com/user-attachments/assets/92faf957-0cec-4a17-b5e6-ab1798b9f360" />
 
 
 
